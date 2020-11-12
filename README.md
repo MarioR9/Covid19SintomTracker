@@ -4,4 +4,12 @@
 
 # Covid19SintomTracker
 
-# Genereal
+General info
+
+
+Technologies
+
+React
+HTML
+CSS
+BootstrapUI
