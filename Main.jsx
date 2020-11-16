@@ -12,7 +12,12 @@ const Main = () => {
 			<div> Name </div>
 			<div> age </div>
 			<div> gender </div>
-			</div>				
+			</div>
+			<div>  
+			<div>
+			<h1>
+			</div>	
+			</div>
 			</div>
 	 </div>
 	);
