@@ -8,6 +8,7 @@ const Main = () => {
      	 	<h1>HOME</h1>
 			<div>
 			<h1>Table</h1>
+			<div> Name </div>
 			</div>
 	 </div>
 	);
