@@ -10,6 +10,7 @@ const Main = () => {
 			<h1>Table</h1>
 			<div> Name </div>
 			<div> age </div>
+			<div> gender </div>
 			</div>
 	 </div>
 	);
