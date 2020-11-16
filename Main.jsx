@@ -15,7 +15,9 @@ const Main = () => {
 			</div>
 			<div>  
 			<div>
-			<h1>
+				<h1> sintoms</h1>
+				--First sintom date
+				-- (dropdown select sintom)
 			</div>	
 			</div>
 			</div>
