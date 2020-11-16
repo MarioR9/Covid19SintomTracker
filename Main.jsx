@@ -8,9 +8,11 @@ const Main = () => {
      	 	<h1>HOME</h1>
 			<div>
 			<h1>Table</h1>
+			<div>  // basic info section
 			<div> Name </div>
 			<div> age </div>
 			<div> gender </div>
+			</div>				
 			</div>
 	 </div>
 	);
