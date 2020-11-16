@@ -9,6 +9,7 @@ const Main = () => {
 			<div>
 			<h1>Table</h1>
 			<div> Name </div>
+			<div> age </div>
 			</div>
 	 </div>
 	);
