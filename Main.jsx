@@ -21,6 +21,10 @@ const Main = () => {
 				-- temperture reading
 				-- oxygen reading
 			</div>	
+				<div>
+				<h1> Medications </h1>
+					-- fever 
+				
 			</div>
 			</div>
 	 </div>
