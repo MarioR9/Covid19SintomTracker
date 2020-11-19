@@ -18,6 +18,8 @@ const Main = () => {
 				<h1> sintoms</h1>
 				--First sintom date
 				-- (dropdown select sintom)
+				-- temperture reading
+				-- oxygen reading
 			</div>	
 			</div>
 			</div>
