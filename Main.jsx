@@ -23,7 +23,8 @@ const Main = () => {
 			</div>	
 				<div>
 				<h1> Medications </h1>
-					-- fever 
+					depending on symtoms  with links to places to buy it from.
+					online and store near by zipcode 
 				
 			</div>
 			</div>
